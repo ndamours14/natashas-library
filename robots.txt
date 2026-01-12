@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ndamours14.github.io/natashas-library/sitemap.xml

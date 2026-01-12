@@ -1,0 +1,46 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Natasha&#x27;s Library",
+    "description": "",
+    "home_page_url": "https://ndamours14.github.io/natashas-library",
+    "feed_url": "https://ndamours14.github.io/natashas-library/feed.json",
+    "user_comment": "",
+    "icon": "https://ndamours14.github.io/natashas-library/media/website/kimberly-farmer-lUaaKCUANVI-unsplash.jpg",
+    "author": {
+        "name": "Natasha D&#x27;Amours"
+    },
+    "items": [
+        {
+            "id": "https://ndamours14.github.io/natashas-library/the-wedding-people-by-alison-espach.html",
+            "url": "https://ndamours14.github.io/natashas-library/the-wedding-people-by-alison-espach.html",
+            "title": "The Wedding People by Alison Espach",
+            "summary": "Book Details Title: The Wedding People Author: Alison Espach Star rating: 3.5/5 Cover of The Wedding People by Alison Espach Review Although this kind of book is not usually my genre of choice, there were some interesting plot twists and insightful moments. I also enjoyed several&hellip;",
+            "content_html": "<h1>Book Details</h1>\n<ul>\n<li>Title: <em>The Wedding People</em></li>\n<li>Author: Alison Espach</li>\n<li>Star rating: 3.5/5</li>\n</ul>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\" src=\"https://ndamours14.github.io/natashas-library/media/posts/4/wedding-people.jpg\" alt=\"Cover of The Wedding People by Alison Espach\" width=\"658\" height=\"1000\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://ndamours14.github.io/natashas-library/media/posts/4/responsive/wedding-people-xs.jpg 640w ,https://ndamours14.github.io/natashas-library/media/posts/4/responsive/wedding-people-sm.jpg 768w ,https://ndamours14.github.io/natashas-library/media/posts/4/responsive/wedding-people-md.jpg 1024w ,https://ndamours14.github.io/natashas-library/media/posts/4/responsive/wedding-people-lg.jpg 1366w ,https://ndamours14.github.io/natashas-library/media/posts/4/responsive/wedding-people-xl.jpg 1600w ,https://ndamours14.github.io/natashas-library/media/posts/4/responsive/wedding-people-2xl.jpg 1920w\">\n<figcaption>Cover of The Wedding People by Alison Espach</figcaption>\n</figure>\n<h1>Review</h1>\n<div class=\"TruncatedContent__text TruncatedContent__text--large\" tabindex=\"-1\" data-testid=\"contentContainer\"><span class=\"Formatted\">Although this kind of book is not usually my genre of choice, there were some interesting plot twists and insightful moments. I also enjoyed several of the side characters, especially Juice.</span></div>",
+            "author": {
+                "name": "Natasha D&#x27;Amours"
+            },
+            "tags": [
+                   "owned book",
+                   "book club"
+            ],
+            "date_published": "2026-01-10T16:42:23-07:00",
+            "date_modified": "2026-01-10T16:42:23-07:00"
+        },
+        {
+            "id": "https://ndamours14.github.io/natashas-library/solito-by-javier-zamora-2.html",
+            "url": "https://ndamours14.github.io/natashas-library/solito-by-javier-zamora-2.html",
+            "title": "Solito by Javier Zamora",
+            "summary": "Book Details Title: Solito Author: Javier Zamora Star rating: 5/5 Cover of Solito by Javier Zamora Review An incredible book. The writing is deeply engaging; the story is deeply heart-wrenching and deeply important.",
+            "content_html": "<h1>Book Details</h1>\n<ul>\n<li>Title: <em>Solito</em></li>\n<li>Author: Javier Zamora</li>\n<li>Star rating: 5/5</li>\n</ul>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\" src=\"https://ndamours14.github.io/natashas-library/media/posts/2/solito.jpg\" alt=\"Cover of Solito by Javier Zamora\" width=\"1684\" height=\"2560\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://ndamours14.github.io/natashas-library/media/posts/2/responsive/solito-xs.jpg 640w ,https://ndamours14.github.io/natashas-library/media/posts/2/responsive/solito-sm.jpg 768w ,https://ndamours14.github.io/natashas-library/media/posts/2/responsive/solito-md.jpg 1024w ,https://ndamours14.github.io/natashas-library/media/posts/2/responsive/solito-lg.jpg 1366w ,https://ndamours14.github.io/natashas-library/media/posts/2/responsive/solito-xl.jpg 1600w ,https://ndamours14.github.io/natashas-library/media/posts/2/responsive/solito-2xl.jpg 1920w\">\n<figcaption>Cover of Solito by Javier Zamora</figcaption>\n</figure>\n<h1>Review</h1>\n<div class=\"TruncatedContent__text TruncatedContent__text--large\" tabindex=\"-1\" data-testid=\"contentContainer\"><span class=\"Formatted\">An incredible book. The writing is deeply engaging; the story is deeply heart-wrenching and deeply important.</span></div>",
+            "author": {
+                "name": "Natasha D&#x27;Amours"
+            },
+            "tags": [
+                   "library book",
+                   "book club"
+            ],
+            "date_published": "2026-01-10T16:33:01-07:00",
+            "date_modified": "2026-01-10T16:35:22-07:00"
+        }
+    ]
+}
